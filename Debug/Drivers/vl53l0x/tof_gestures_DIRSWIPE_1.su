@@ -1,0 +1,2 @@
+tof_gestures_DIRSWIPE_1.cpp:39:5:int tof_gestures_initDIRSWIPE_1(int32_t, long int, long int, Gesture_DIRSWIPE_1_Data_t*)	32	static
+tof_gestures_DIRSWIPE_1.cpp:52:5:int tof_gestures_detectDIRSWIPE_1(int32_t, int32_t, Gesture_DIRSWIPE_1_Data_t*)	48	static

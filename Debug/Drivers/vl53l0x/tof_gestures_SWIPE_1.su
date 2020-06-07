@@ -1,0 +1,2 @@
+tof_gestures_SWIPE_1.cpp:39:5:int tof_gestures_initSWIPE_1(Gesture_SWIPE_1_Data_t*)	24	static
+tof_gestures_SWIPE_1.cpp:49:5:int tof_gestures_detectSWIPE_1(int32_t, Gesture_SWIPE_1_Data_t*)	24	static

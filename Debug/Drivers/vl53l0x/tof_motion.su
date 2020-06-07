@@ -1,0 +1,2 @@
+tof_motion.cpp:38:5:int tof_initMotion(int, MotionData_t*)	16	static
+tof_motion.cpp:48:5:int tof_getMotion(int32_t, MotionData_t*)	32	static

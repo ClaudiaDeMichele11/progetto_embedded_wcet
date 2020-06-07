@@ -1,0 +1,9 @@
+ring_buffer.cpp:41:5:int RB_init(ring_buffer_t*, int)	16	static
+ring_buffer.cpp:51:5:int RB_push(ring_buffer_t*, int)	16	static
+ring_buffer.cpp:73:5:int RB_pop(ring_buffer_t*)	24	static
+ring_buffer.cpp:87:6:bool RB_full(ring_buffer_t*)	16	static
+ring_buffer.cpp:92:6:void RB_trace(ring_buffer_t*)	24	static
+ring_buffer.cpp:108:5:int RB_sum(ring_buffer_t*)	32	static
+ring_buffer.cpp:124:5:int RB_mean(ring_buffer_t*)	16	static
+ring_buffer.cpp:129:5:int RB_mad(ring_buffer_t*)	40	static
+ring_buffer.cpp:150:5:int RB_dir(ring_buffer_t*)	40	static

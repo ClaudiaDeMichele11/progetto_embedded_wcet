@@ -1,0 +1,2 @@
+tof_gestures_TAP_1.cpp:39:5:int tof_gestures_initTAP_1(Gesture_TAP_1_Data_t*)	24	static
+tof_gestures_TAP_1.cpp:50:5:int tof_gestures_detectTAP_1(int32_t, Gesture_TAP_1_Data_t*)	40	static
